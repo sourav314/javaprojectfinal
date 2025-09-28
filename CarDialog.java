@@ -6,6 +6,7 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.sql.*;
 
+
 public class CarDialog extends JDialog {
 
     private JTextField vinField, makeField, modelField, yearField, priceField, stockField;
